@@ -5,7 +5,7 @@ Two robots moving in a grid to search their goal state.
 The purpose of this assignment is to implement the search algorithms: breadth first search (BFS),depth first search (DFS), iterative deepening search (IDE), and A* search. 
 
 # The setting: 
-we will use the 2 robots moving in a grid as the problem that needs to be solved. The robots cannot swap positions, or hit each other. Also, they need to remain on the grid.
+We will use the 2 robots moving in a grid as the problem that needs to be solved. The robots cannot swap positions, or hit each other. Also, they need to remain on the grid.
 
 # Future Updates:
 - Plot all the search times, states explored and frontier for different sizes and for different search algorithms.
